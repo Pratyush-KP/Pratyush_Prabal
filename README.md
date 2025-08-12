@@ -4,7 +4,7 @@
 <p align='center'>
     <img src="https://komarev.com/ghpvc/?username=Pratyush_Prabal&color=dc143c"/></a>
   <a href="https://rajsupratik-porfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139"/></a>
-  <a href="https://github.com/Pratyush_KP?tab=repositories"><img src="https://img.shields.io/github/stars/rajsupratik?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+ 
 </p>
 <p align='center'>
  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
