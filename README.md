@@ -32,22 +32,18 @@ I mostly work with **Javascript**, specifically **React** & **NextJS** to power 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase" />&nbsp;
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
+ 
+
 
 
 
