@@ -14,13 +14,13 @@ Glad to see you here! I'm **_Pratyush Prabal_**, an **Aspiring Software Engineer
 
 Currently, I'm tinkering with ASM and understanding the working of Linux Kernels. My notable contributions include building [Tax-Liablity-System](https://github.com/rajsupratik/real-timeTaxLiabilityCalculationSystem) which was submitted to Google Solutions Challenge 2024. I've also had the privilege of mentoring in [JGEC Winter of Code 2024](https://www.jwoc.tech) as well as [Delta Winter of Code 2023](https://dwoc.io).
 
-_Checkout my recent Project: [Etherum Wallet](https://github.com/rajsupratik/EthereumWallet)_
+_Checkout my recent Project: [Ayurcare](https://github.com/Pratyush-KP/Ayurcare)_
 
 ### Projects
 
 Apart from the pinned repositories, I have contributed to:
 - ⚡ [Scrape-Up](https://github.com/Clueless-Community/scrape-up) *(A web-scraping-based [python package](https://pypi.org/project/scrape-up/) that enables you to scrape data from various platforms)*
-- 🅿️ [Ayurcare(Aruevedic health care system)](https://github.com/Pratyush-KP/Ayurcare) *(part of 6th Semester Major-Project)*
+- 🅿️ [Ayurcare(Aruevedic health care system)]() *(part of 6th Semester Major-Project)*
 
 ### Tech Stack
 
