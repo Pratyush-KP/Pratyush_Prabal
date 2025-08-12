@@ -26,11 +26,7 @@ Currently exploring **AI** and integrating it with modern **web technologies**.
 
 ### 🚀 Featured Project  
 🔹 **[Ayurcare](https://github.com/Pratyush-KP/Ayurcare)** — An Ayurvedic healthcare system *(6th Semester Major Project)*
-
----
-
-### 💡 Other Contributions  
-- ⚡ [Scrape-Up](https://github.com/Clueless-Community/scrape-up) — Web-scraping-based [Python package](https://pypi.org/project/scrape-up/) for multiple platforms.  
+🔹 **[Flipkart](https://github.com/Pratyush-KP/Flipkart_Clone)** — A Clone of FlipKart*
 
 ---
 
@@ -40,23 +36,16 @@ Currently exploring **AI** and integrating it with modern **web technologies**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)
 
 **Styling & UI**  
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
 
 **Databases & Cloud**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)
-
-**DevOps**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
