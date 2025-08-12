@@ -20,7 +20,7 @@ _Checkout my recent Project: [Etherum Wallet](https://github.com/rajsupratik/Eth
 
 Apart from the pinned repositories, I have contributed to:
 - ⚡ [Scrape-Up](https://github.com/Clueless-Community/scrape-up) *(A web-scraping-based [python package](https://pypi.org/project/scrape-up/) that enables you to scrape data from various platforms)*
-- 🅿️ [helmet Detection System](https://github.com/rajsupratik/HelmetDetectionSystem) *(part of 6th Semester Major-Project)*
+- 🅿️ [Ayurcare(Aruevedic health care system)](https://github.com/Pratyush-KP/Ayurcare) *(part of 6th Semester Major-Project)*
 
 ### Tech Stack
 
