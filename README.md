@@ -19,7 +19,7 @@
 Hi, I'm **Pratyush Prabal** — an **Aspiring Software Engineer** passionate about **Web** & **App Development**.  
 I balance code with **music** 🎵, a cup of **tea** 🍵, and a splash of **painting** 🎨.  
 
-From the flatlands of **Dhanbad** to the mountain highs of **Dehradun**, I’ve learned that **altitude isn’t just a number**!  
+From the flatlands of **Ranchi** to the mountain highs of **Dehradun**, I’ve learned that **altitude isn’t just a number**!  
 Currently exploring **AI** and integrating it with modern **web technologies**.
 
 ---
